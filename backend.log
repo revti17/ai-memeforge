@@ -1,0 +1,621 @@
+Starting AI MemeForge Backend...
+API will be available at: http://localhost:8000
+API Docs: http://localhost:8000/docs
+
+INFO:     Will watch for changes in these directories: ['/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [35695] using WatchFiles
+INFO:     Started server process [35702]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Timeless Journey: The Canine Chauffeur"
+
+In the heart of a quaint, sun-kissed town, nestle...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"When the only thing more stylish than your dog is your car. 🐾🚗 #TheBrand'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763022925.png
+INFO:services.analytics:Logged generation event: gen_20251113_140528_17
+INFO:services.brand_memory:Added caption to history: "When the only thing more stylish than your dog is your car. 🐾🚗 #TheBrand
+INFO:routers.generate:Meme generated successfully: meme_1763022925.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:51413 - "POST /generate/ HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'services/ai_engine.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [35702]
+INFO:     Started server process [35869]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Timeless Bond: The Sunset Ride"
+
+In the heart of a quaint, sun-kissed coastal town, a vint...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"Because a car is not just a vehicle, it's a dog-friendly adventure mobile. 🚗🐶 #thebrand #PawsOnTheDash'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763022969.png
+INFO:services.analytics:Logged generation event: gen_20251113_140611_18
+INFO:services.brand_memory:Added caption to history: "Because a car is not just a vehicle, it's a dog-friendly adventure mobile. 🚗🐶 #thebrand #PawsOnTheDash
+INFO:routers.generate:Meme generated successfully: meme_1763022969.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:51642 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51696 - "GET /outputs/meme_1763022969.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52951 - "OPTIONS /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52951 - "POST /auth/register HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52957 - "POST /auth/register HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52957 - "POST /auth/register HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52957 - "POST /auth/register HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52960 - "POST /auth/register HTTP/1.1" 404 Not Found
+WARNING:  WatchFiles detected changes in 'services/ai_engine.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [35869]
+INFO:     Started server process [44452]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:56201 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Fetching fresh trends from all sources...
+INFO:services.trend_intelligence:Fetched 160 trends from Reddit
+INFO:services.trend_intelligence:Cached 142 trends
+INFO:     127.0.0.1:56203 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:56205 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56207 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56215 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:56216 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56215 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:56216 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56245 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:56294 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56294 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:56245 - "GET /trends/ HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'config.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44452]
+WARNING:  WatchFiles detected changes in 'config.py'. Reloading...
+INFO:     Started server process [64276]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'db/__init__.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [64276]
+WARNING:  WatchFiles detected changes in 'db/__init__.py'. Reloading...
+INFO:     Started server process [64643]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'db/__init__.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [64643]
+INFO:     Started server process [64668]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'db/mongo.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [64668]
+WARNING:  WatchFiles detected changes in 'db/mongo.py'. Reloading...
+INFO:     Started server process [64875]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [64888]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [64888]
+Process SpawnProcess-11:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 76, in _serve
+    config.load()
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/config.py", line 434, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 22, in import_from_string
+    raise exc from None
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/main.py", line 7, in <module>
+    from db.mongo import connect_to_mongo, close_mongo_connection
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/db/mongo.py", line 4, in <module>
+    from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorDatabase
+ModuleNotFoundError: No module named 'motor'
+WARNING:  WatchFiles detected changes in 'services/repositories/__init__.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'services/repositories/__init__.py'. Reloading...
+Process SpawnProcess-12:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 76, in _serve
+    config.load()
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/config.py", line 434, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 22, in import_from_string
+    raise exc from None
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/main.py", line 7, in <module>
+    from db.mongo import connect_to_mongo, close_mongo_connection
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/db/mongo.py", line 4, in <module>
+    from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorDatabase
+ModuleNotFoundError: No module named 'motor'
+Process SpawnProcess-13:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 76, in _serve
+    config.load()
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/config.py", line 434, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 22, in import_from_string
+    raise exc from None
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/main.py", line 7, in <module>
+    from db.mongo import connect_to_mongo, close_mongo_connection
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/db/mongo.py", line 4, in <module>
+    from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorDatabase
+ModuleNotFoundError: No module named 'motor'
+WARNING:  WatchFiles detected changes in 'services/repositories/base.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'services/repositories/base.py'. Reloading...
+Process SpawnProcess-15:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/_subprocess.py", line 80, in subprocess_started
+    target(sockets=sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/server.py", line 76, in _serve
+    config.load()
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/config.py", line 434, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 22, in import_from_string
+    raise exc from None
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/venv/lib/python3.10/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/usr/local/Cellar/python@3.10/3.10.18/Frameworks/Python.framework/Versions/3.10/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/main.py", line 7, in <module>
+    from db.mongo import connect_to_mongo, close_mongo_connection
+  File "/Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/db/mongo.py", line 4, in <module>
+    from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorDatabase
+ModuleNotFoundError: No module named 'motor'
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/gridfs/grid_file_shared.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/change_stream.py', 'venv/lib/python3.10/site-packages/pymongo/driver_info.py', 'venv/lib/python3.10/site-packages/pymongo/results.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/pool.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/topology.py', 'venv/lib/python3.10/site-packages/bson/code.py', 'venv/lib/python3.10/site-packages/pymongo/write_concern.py', 'venv/lib/python3.10/site-packages/pymongo/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/monitor.py', 'venv/lib/python3.10/site-packages/pymongo/srv_resolver.py', 'venv/lib/python3.10/site-packages/bson/json_util.py', 'venv/lib/python3.10/site-packages/pymongo/event_loggers.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/collection.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/network.py', 'venv/lib/python3.10/site-packages/pymongo/cursor_shared.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/server.py', 'venv/lib/python3.10/site-packages/pymongo/_gcp_helpers.py', 'venv/lib/python3.10/site-packages/bson/int64.py', 'venv/lib/python3.10/site-packages/pymongo/network_layer.py', 'venv/lib/python3.10/site-packages/pymongo/client_session.py', 'venv/lib/python3.10/site-packages/bson/typings.py', 'venv/lib/python3.10/site-packages/pymongo/collation.py', 'venv/lib/python3.10/site-packages/bson/timestamp.py', 'venv/lib/python3.10/site-packages/bson/_helpers.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/helpers.py', 'venv/lib/python3.10/site-packages/pymongo/compression_support.py', 'venv/lib/python3.10/site-packages/pymongo/logger.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/pymongo/response.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/settings.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/client_session.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/pymongo/message.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/mongo_client.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/bulk.py', 'venv/lib/python3.10/site-packages/gridfs/asynchronous/grid_file.py', 'venv/lib/python3.10/site-packages/pymongo/errors.py', 'venv/lib/python3.10/site-packages/pymongo/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/change_stream.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/mongo_client.py', 'venv/lib/python3.10/site-packages/bson/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth.py', 'venv/lib/python3.10/site-packages/pymongo/topology_description.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/topology.py', 'venv/lib/python3.10/site-packages/pymongo/auth_shared.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/cursor.py', 'venv/lib/python3.10/site-packages/pymongo/read_preferences.py', 'venv/lib/python3.10/site-packages/bson/regex.py', 'venv/lib/python3.10/site-packages/pymongo/socket_checker.py', 'venv/lib/python3.10/site-packages/pymongo/_version.py', 'venv/lib/python3.10/site-packages/pymongo/hello.py', 'venv/lib/python3.10/site-packages/pymongo/server_description.py', 'venv/lib/python3.10/site-packages/pymongo/server_selectors.py', 'venv/lib/python3.10/site-packages/pymongo/collection.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/pymongo/ssl_context.py', 'venv/lib/python3.10/site-packages/gridfs/grid_file.py', 'venv/lib/python3.10/site-packages/pymongo/_csot.py', 'venv/lib/python3.10/site-packages/pymongo/database_shared.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/collection.py', 'venv/lib/python3.10/site-packages/pymongo/database.py', 'venv/lib/python3.10/site-packages/pymongo/saslprep.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/network.py', 'venv/lib/python3.10/site-packages/pymongo/ocsp_cache.py', 'venv/lib/python3.10/site-packages/pymongo/_azure_helpers.py', 'venv/lib/python3.10/site-packages/pymongo/bulk_shared.py', 'venv/lib/python3.10/site-packages/pymongo/uri_parser.py', 'venv/lib/python3.10/site-packages/pymongo/auth_oidc_shared.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/helpers.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/database.py', 'venv/lib/python3.10/site-packages/bson/datetime_ms.py', 'venv/lib/python3.10/site-packages/pymongo/server_api.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/client_session.py', 'venv/lib/python3.10/site-packages/bson/decimal128.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/settings.py', 'venv/lib/python3.10/site-packages/bson/son.py', 'venv/lib/python3.10/site-packages/bson/tz_util.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/aggregation.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/helpers_shared.py', 'venv/lib/python3.10/site-packages/pymongo/pool.py', 'venv/lib/python3.10/site-packages/gridfs/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/monitoring.py', 'venv/lib/python3.10/site-packages/pymongo/read_concern.py', 'venv/lib/python3.10/site-packages/pymongo/typings.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/pool.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py', 'venv/lib/python3.10/site-packages/bson/min_key.py', 'venv/lib/python3.10/site-packages/pymongo/max_staleness_selectors.py', 'venv/lib/python3.10/site-packages/pymongo/command_cursor.py', 'venv/lib/python3.10/site-packages/bson/codec_options.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/monitor.py', 'venv/lib/python3.10/site-packages/pymongo/cursor.py', 'venv/lib/python3.10/site-packages/bson/dbref.py', 'venv/lib/python3.10/site-packages/pymongo/server_type.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/server.py', 'venv/lib/python3.10/site-packages/pymongo/ssl_support.py', 'venv/lib/python3.10/site-packages/pymongo/_client_bulk_shared.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/cursor.py', 'venv/lib/python3.10/site-packages/pymongo/daemon.py', 'venv/lib/python3.10/site-packages/pymongo/common.py', 'venv/lib/python3.10/site-packages/pymongo/pool_options.py', 'venv/lib/python3.10/site-packages/pymongo/__init__.py', 'venv/lib/python3.10/site-packages/bson/binary.py', 'venv/lib/python3.10/site-packages/bson/objectid.py', 'venv/lib/python3.10/site-packages/pymongo/operations.py', 'venv/lib/python3.10/site-packages/bson/errors.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/pymongo/client_options.py', 'venv/lib/python3.10/site-packages/bson/max_key.py', 'venv/lib/python3.10/site-packages/gridfs/synchronous/grid_file.py', 'venv/lib/python3.10/site-packages/pymongo/lock.py', 'venv/lib/python3.10/site-packages/gridfs/errors.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/encryption_options.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/database.py', 'venv/lib/python3.10/site-packages/pymongo/change_stream.py', 'venv/lib/python3.10/site-packages/bson/raw_bson.py', 'venv/lib/python3.10/site-packages/pymongo/pyopenssl_context.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/aggregation.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/bulk.py', 'venv/lib/python3.10/site-packages/pymongo/auth.py', 'venv/lib/python3.10/site-packages/pymongo/ocsp_support.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/~ymongo/driver_info.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/database.py', 'venv/lib/python3.10/site-packages/motor/_version.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/aggregation.py', 'venv/lib/python3.10/site-packages/~ymongo/cursor_shared.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/change_stream.py', 'venv/lib/python3.10/site-packages/~ymongo/server_description.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/pool.py', 'venv/lib/python3.10/site-packages/~ymongo/database.py', 'venv/lib/python3.10/site-packages/~ymongo/_azure_helpers.py', 'venv/lib/python3.10/site-packages/~ymongo/auth_oidc_shared.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/~ymongo/encryption.py', 'venv/lib/python3.10/site-packages/~ymongo/pool.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/helpers.py', 'venv/lib/python3.10/site-packages/motor/frameworks/__init__.py', 'venv/lib/python3.10/site-packages/~son/min_key.py', 'venv/lib/python3.10/site-packages/~ymongo/server_selectors.py', 'venv/lib/python3.10/site-packages/~son/codec_options.py', 'venv/lib/python3.10/site-packages/~ymongo/server_type.py', 'venv/lib/python3.10/site-packages/~ymongo/_csot.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/mongo_client.py', 'venv/lib/python3.10/site-packages/~ymongo/common.py', 'venv/lib/python3.10/site-packages/~ymongo/pool_options.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/server.py', 'venv/lib/python3.10/site-packages/~son/errors.py', 'venv/lib/python3.10/site-packages/motor/frameworks/tornado/__init__.py', 'venv/lib/python3.10/site-packages/~ymongo/auth.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/settings.py', 'venv/lib/python3.10/site-packages/~ymongo/_client_bulk_shared.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/~son/json_util.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/monitor.py', 'venv/lib/python3.10/site-packages/~ymongo/_gcp_helpers.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/collection.py', 'venv/lib/python3.10/site-packages/~son/typings.py', 'venv/lib/python3.10/site-packages/~ymongo/auth_oidc.py', 'venv/lib/python3.10/site-packages/~ymongo/response.py', 'venv/lib/python3.10/site-packages/~ridfs/asynchronous/grid_file.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/__init__.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/network.py', 'venv/lib/python3.10/site-packages/motor/docstrings.py', 'venv/lib/python3.10/site-packages/~ymongo/collation.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/cursor.py', 'venv/lib/python3.10/site-packages/~ymongo/logger.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/~ymongo/uri_parser.py', 'venv/lib/python3.10/site-packages/motor/core.py', 'venv/lib/python3.10/site-packages/~son/datetime_ms.py', 'venv/lib/python3.10/site-packages/~son/decimal128.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/client_session.py', 'venv/lib/python3.10/site-packages/~ridfs/grid_file.py', 'venv/lib/python3.10/site-packages/~ymongo/monitoring.py', 'venv/lib/python3.10/site-packages/~ymongo/read_concern.py', 'venv/lib/python3.10/site-packages/~ymongo/hello.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/topology.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/bulk.py', 'venv/lib/python3.10/site-packages/~ymongo/ocsp_cache.py', 'venv/lib/python3.10/site-packages/~ymongo/bulk_shared.py', 'venv/lib/python3.10/site-packages/~ymongo/server_api.py', 'venv/lib/python3.10/site-packages/~ymongo/lock.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/server.py', 'venv/lib/python3.10/site-packages/~ymongo/ocsp_support.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/database.py', 'venv/lib/python3.10/site-packages/motor/web.py', 'venv/lib/python3.10/site-packages/~ymongo/command_cursor.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/encryption.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/pool.py', 'venv/lib/python3.10/site-packages/~ymongo/operations.py', 'venv/lib/python3.10/site-packages/~ymongo/event_loggers.py', 'venv/lib/python3.10/site-packages/~son/int64.py', 'venv/lib/python3.10/site-packages/~son/_helpers.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/monitor.py', 'venv/lib/python3.10/site-packages/~ymongo/message.py', 'venv/lib/python3.10/site-packages/motor/aiohttp/__init__.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/collection.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/~ymongo/errors.py', 'venv/lib/python3.10/site-packages/~son/__init__.py', 'venv/lib/python3.10/site-packages/~ridfs/errors.py', 'venv/lib/python3.10/site-packages/~ymongo/topology_description.py', 'venv/lib/python3.10/site-packages/motor/metaprogramming.py', 'venv/lib/python3.10/site-packages/~son/regex.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/auth.py', 'venv/lib/python3.10/site-packages/~ymongo/network_layer.py', 'venv/lib/python3.10/site-packages/~ymongo/database_shared.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/cursor.py', 'venv/lib/python3.10/site-packages/~son/tz_util.py', 'venv/lib/python3.10/site-packages/motor/motor_gridfs.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/~ymongo/auth_shared.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/settings.py', 'venv/lib/python3.10/site-packages/~ymongo/read_preferences.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/~ymongo/_version.py', 'venv/lib/python3.10/site-packages/~ymongo/max_staleness_selectors.py', 'venv/lib/python3.10/site-packages/~son/dbref.py', 'venv/lib/python3.10/site-packages/motor/frameworks/asyncio/__init__.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/client_session.py', 'venv/lib/python3.10/site-packages/motor/__init__.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/change_stream.py', 'venv/lib/python3.10/site-packages/motor/motor_tornado.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/topology.py', 'venv/lib/python3.10/site-packages/~son/binary.py', 'venv/lib/python3.10/site-packages/~son/objectid.py', 'venv/lib/python3.10/site-packages/~ymongo/encryption_options.py', 'venv/lib/python3.10/site-packages/~ymongo/change_stream.py', 'venv/lib/python3.10/site-packages/~ymongo/results.py', 'venv/lib/python3.10/site-packages/motor/motor_asyncio.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/helpers.py', 'venv/lib/python3.10/site-packages/~son/code.py', 'venv/lib/python3.10/site-packages/~ymongo/client_options.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/mongo_client.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/encryption.py', 'venv/lib/python3.10/site-packages/~ridfs/grid_file_shared.py', 'venv/lib/python3.10/site-packages/~son/timestamp.py', 'venv/lib/python3.10/site-packages/~ymongo/pyopenssl_context.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/aggregation.py', 'venv/lib/python3.10/site-packages/~ymongo/mongo_client.py', 'venv/lib/python3.10/site-packages/~ymongo/write_concern.py', 'venv/lib/python3.10/site-packages/motor/motor_common.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/bulk.py', 'venv/lib/python3.10/site-packages/~ymongo/srv_resolver.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/~ymongo/socket_checker.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/~ymongo/compression_support.py', 'venv/lib/python3.10/site-packages/~ymongo/saslprep.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/auth.py', 'venv/lib/python3.10/site-packages/~son/son.py', 'venv/lib/python3.10/site-packages/~ymongo/helpers_shared.py', 'venv/lib/python3.10/site-packages/~ymongo/asynchronous/__init__.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/~ymongo/collection.py', 'venv/lib/python3.10/site-packages/~ymongo/ssl_context.py', 'venv/lib/python3.10/site-packages/~ymongo/ssl_support.py', 'venv/lib/python3.10/site-packages/~ymongo/__init__.py', 'venv/lib/python3.10/site-packages/~ridfs/__init__.py', 'venv/lib/python3.10/site-packages/~son/max_key.py', 'venv/lib/python3.10/site-packages/~son/raw_bson.py', 'venv/lib/python3.10/site-packages/~ymongo/typings.py', 'venv/lib/python3.10/site-packages/~ymongo/cursor.py', 'venv/lib/python3.10/site-packages/~ymongo/daemon.py', 'venv/lib/python3.10/site-packages/~ridfs/synchronous/grid_file.py', 'venv/lib/python3.10/site-packages/~ymongo/client_session.py', 'venv/lib/python3.10/site-packages/~ymongo/synchronous/network.py'. Reloading...
+INFO:     Started server process [66963]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/pymongo/synchronous/pool.py', 'venv/lib/python3.10/site-packages/motor/_version.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/server.py', 'venv/lib/python3.10/site-packages/pymongo/_gcp_helpers.py', 'venv/lib/python3.10/site-packages/bson/int64.py', 'venv/lib/python3.10/site-packages/pymongo/network_layer.py', 'venv/lib/python3.10/site-packages/bson/_helpers.py', 'venv/lib/python3.10/site-packages/pymongo/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/pymongo/response.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/bson/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth.py', 'venv/lib/python3.10/site-packages/pymongo/auth_shared.py', 'venv/lib/python3.10/site-packages/motor/frameworks/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/read_preferences.py', 'venv/lib/python3.10/site-packages/bson/regex.py', 'venv/lib/python3.10/site-packages/pymongo/_version.py', 'venv/lib/python3.10/site-packages/gridfs/grid_file.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/collection.py', 'venv/lib/python3.10/site-packages/pymongo/uri_parser.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/settings.py', 'venv/lib/python3.10/site-packages/bson/tz_util.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/monitoring.py', 'venv/lib/python3.10/site-packages/motor/frameworks/tornado/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/read_concern.py', 'venv/lib/python3.10/site-packages/bson/dbref.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/cursor.py', 'venv/lib/python3.10/site-packages/bson/binary.py', 'venv/lib/python3.10/site-packages/bson/objectid.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/pymongo/client_options.py', 'venv/lib/python3.10/site-packages/pymongo/lock.py', 'venv/lib/python3.10/site-packages/pymongo/pyopenssl_context.py', 'venv/lib/python3.10/site-packages/pymongo/ocsp_support.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/change_stream.py', 'venv/lib/python3.10/site-packages/bson/code.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/topology.py', 'venv/lib/python3.10/site-packages/pymongo/write_concern.py', 'venv/lib/python3.10/site-packages/pymongo/srv_resolver.py', 'venv/lib/python3.10/site-packages/pymongo/event_loggers.py', 'venv/lib/python3.10/site-packages/motor/docstrings.py', 'venv/lib/python3.10/site-packages/bson/timestamp.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/helpers.py', 'venv/lib/python3.10/site-packages/pymongo/compression_support.py', 'venv/lib/python3.10/site-packages/pymongo/message.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/bulk.py', 'venv/lib/python3.10/site-packages/motor/core.py', 'venv/lib/python3.10/site-packages/gridfs/asynchronous/grid_file.py', 'venv/lib/python3.10/site-packages/pymongo/errors.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/mongo_client.py', 'venv/lib/python3.10/site-packages/pymongo/topology_description.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/pymongo/collection.py', 'venv/lib/python3.10/site-packages/pymongo/ssl_context.py', 'venv/lib/python3.10/site-packages/pymongo/database_shared.py', 'venv/lib/python3.10/site-packages/bson/son.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/pymongo/typings.py', 'venv/lib/python3.10/site-packages/pymongo/max_staleness_selectors.py', 'venv/lib/python3.10/site-packages/motor/web.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/monitor.py', 'venv/lib/python3.10/site-packages/pymongo/cursor.py', 'venv/lib/python3.10/site-packages/pymongo/daemon.py', 'venv/lib/python3.10/site-packages/bson/max_key.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/encryption_options.py', 'venv/lib/python3.10/site-packages/pymongo/change_stream.py', 'venv/lib/python3.10/site-packages/bson/raw_bson.py', 'venv/lib/python3.10/site-packages/gridfs/grid_file_shared.py', 'venv/lib/python3.10/site-packages/pymongo/driver_info.py', 'venv/lib/python3.10/site-packages/pymongo/results.py', 'venv/lib/python3.10/site-packages/motor/aiohttp/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/network.py', 'venv/lib/python3.10/site-packages/pymongo/cursor_shared.py', 'venv/lib/python3.10/site-packages/motor/metaprogramming.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/client_session.py', 'venv/lib/python3.10/site-packages/pymongo/mongo_client.py', 'venv/lib/python3.10/site-packages/pymongo/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/change_stream.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/topology.py', 'venv/lib/python3.10/site-packages/motor/motor_gridfs.py', 'venv/lib/python3.10/site-packages/pymongo/socket_checker.py', 'venv/lib/python3.10/site-packages/pymongo/server_selectors.py', 'venv/lib/python3.10/site-packages/motor/frameworks/asyncio/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/_csot.py', 'venv/lib/python3.10/site-packages/pymongo/saslprep.py', 'venv/lib/python3.10/site-packages/motor/__init__.py', 'venv/lib/python3.10/site-packages/motor/motor_tornado.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/helpers.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/database.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/aggregation.py', 'venv/lib/python3.10/site-packages/pymongo/helpers_shared.py', 'venv/lib/python3.10/site-packages/gridfs/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/pool.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py', 'venv/lib/python3.10/site-packages/bson/min_key.py', 'venv/lib/python3.10/site-packages/bson/codec_options.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/encryption.py', 'venv/lib/python3.10/site-packages/motor/motor_asyncio.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/server.py', 'venv/lib/python3.10/site-packages/pymongo/ssl_support.py', 'venv/lib/python3.10/site-packages/pymongo/_client_bulk_shared.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/pymongo/__init__.py', 'venv/lib/python3.10/site-packages/bson/errors.py', 'venv/lib/python3.10/site-packages/gridfs/synchronous/grid_file.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth.py', 'venv/lib/python3.10/site-packages/motor/motor_common.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/monitor.py', 'venv/lib/python3.10/site-packages/bson/json_util.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/collection.py', 'venv/lib/python3.10/site-packages/pymongo/client_session.py', 'venv/lib/python3.10/site-packages/bson/typings.py', 'venv/lib/python3.10/site-packages/pymongo/collation.py', 'venv/lib/python3.10/site-packages/pymongo/logger.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/settings.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/cursor.py', 'venv/lib/python3.10/site-packages/pymongo/hello.py', 'venv/lib/python3.10/site-packages/pymongo/server_description.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/pymongo/database.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/network.py', 'venv/lib/python3.10/site-packages/pymongo/ocsp_cache.py', 'venv/lib/python3.10/site-packages/pymongo/bulk_shared.py', 'venv/lib/python3.10/site-packages/pymongo/_azure_helpers.py', 'venv/lib/python3.10/site-packages/pymongo/auth_oidc_shared.py', 'venv/lib/python3.10/site-packages/bson/datetime_ms.py', 'venv/lib/python3.10/site-packages/pymongo/server_api.py', 'venv/lib/python3.10/site-packages/bson/decimal128.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/client_session.py', 'venv/lib/python3.10/site-packages/pymongo/pool.py', 'venv/lib/python3.10/site-packages/pymongo/command_cursor.py', 'venv/lib/python3.10/site-packages/pymongo/server_type.py', 'venv/lib/python3.10/site-packages/pymongo/common.py', 'venv/lib/python3.10/site-packages/pymongo/pool_options.py', 'venv/lib/python3.10/site-packages/pymongo/operations.py', 'venv/lib/python3.10/site-packages/gridfs/errors.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/database.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/bulk.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/aggregation.py', 'venv/lib/python3.10/site-packages/pymongo/auth.py'. Reloading...
+INFO:     Started server process [67030]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+INFO:     Started server process [67045]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/motor/web.py', 'venv/lib/python3.10/site-packages/motor/motor_asyncio.py', 'venv/lib/python3.10/site-packages/motor/_version.py', 'venv/lib/python3.10/site-packages/motor/motor_gridfs.py', 'venv/lib/python3.10/site-packages/motor/motor_common.py', 'venv/lib/python3.10/site-packages/motor/metaprogramming.py', 'venv/lib/python3.10/site-packages/motor/__init__.py', 'venv/lib/python3.10/site-packages/motor/docstrings.py', 'venv/lib/python3.10/site-packages/motor/motor_tornado.py', 'venv/lib/python3.10/site-packages/motor/core.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:db.mongo:MongoDB connection closed.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [67045]
+INFO:     Started server process [67080]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/motor/frameworks/__init__.py', 'venv/lib/python3.10/site-packages/motor/aiohttp/__init__.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:db.mongo:MongoDB connection closed.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [67080]
+INFO:     Started server process [67115]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/bson/codec_options.py', 'venv/lib/python3.10/site-packages/bson/dbref.py', 'venv/lib/python3.10/site-packages/bson/code.py', 'venv/lib/python3.10/site-packages/bson/datetime_ms.py', 'venv/lib/python3.10/site-packages/bson/binary.py', 'venv/lib/python3.10/site-packages/bson/errors.py', 'venv/lib/python3.10/site-packages/bson/json_util.py', 'venv/lib/python3.10/site-packages/bson/decimal128.py', 'venv/lib/python3.10/site-packages/bson/tz_util.py', 'venv/lib/python3.10/site-packages/bson/son.py', 'venv/lib/python3.10/site-packages/bson/__init__.py', 'venv/lib/python3.10/site-packages/bson/objectid.py', 'venv/lib/python3.10/site-packages/bson/max_key.py', 'venv/lib/python3.10/site-packages/bson/regex.py', 'venv/lib/python3.10/site-packages/bson/int64.py', 'venv/lib/python3.10/site-packages/bson/raw_bson.py', 'venv/lib/python3.10/site-packages/bson/typings.py', 'venv/lib/python3.10/site-packages/bson/timestamp.py', 'venv/lib/python3.10/site-packages/bson/_helpers.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:db.mongo:MongoDB connection closed.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [67115]
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/pymongo/response.py', 'venv/lib/python3.10/site-packages/pymongo/results.py', 'venv/lib/python3.10/site-packages/pymongo/driver_info.py', 'venv/lib/python3.10/site-packages/pymongo/database.py', 'venv/lib/python3.10/site-packages/pymongo/ssl_support.py', 'venv/lib/python3.10/site-packages/pymongo/bulk_shared.py', 'venv/lib/python3.10/site-packages/pymongo/_client_bulk_shared.py', 'venv/lib/python3.10/site-packages/pymongo/write_concern.py', 'venv/lib/python3.10/site-packages/pymongo/mongo_client.py', 'venv/lib/python3.10/site-packages/pymongo/daemon.py', 'venv/lib/python3.10/site-packages/pymongo/errors.py', 'venv/lib/python3.10/site-packages/pymongo/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/helpers_shared.py', 'venv/lib/python3.10/site-packages/pymongo/cursor_shared.py', 'venv/lib/python3.10/site-packages/pymongo/encryption_options.py', 'venv/lib/python3.10/site-packages/pymongo/monitoring.py', 'venv/lib/python3.10/site-packages/pymongo/_version.py', 'venv/lib/python3.10/site-packages/pymongo/typings.py', 'venv/lib/python3.10/site-packages/pymongo/change_stream.py', 'venv/lib/python3.10/site-packages/pymongo/network_layer.py', 'venv/lib/python3.10/site-packages/pymongo/server_description.py', 'venv/lib/python3.10/site-packages/pymongo/client_session.py', 'venv/lib/python3.10/site-packages/pymongo/pyopenssl_context.py', 'venv/lib/python3.10/site-packages/pymongo/collection.py', 'venv/lib/python3.10/site-packages/bson/min_key.py', 'venv/lib/python3.10/site-packages/pymongo/auth.py', 'venv/lib/python3.10/site-packages/pymongo/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/compression_support.py', 'venv/lib/python3.10/site-packages/pymongo/command_cursor.py'. Reloading...
+INFO:     Started server process [67140]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+INFO:     Started server process [67151]
+INFO:     Waiting for application startup.
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/pymongo/_csot.py', 'venv/lib/python3.10/site-packages/pymongo/cursor.py', 'venv/lib/python3.10/site-packages/pymongo/database_shared.py', 'venv/lib/python3.10/site-packages/pymongo/server_type.py', 'venv/lib/python3.10/site-packages/pymongo/message.py', 'venv/lib/python3.10/site-packages/pymongo/saslprep.py', 'venv/lib/python3.10/site-packages/pymongo/ocsp_cache.py', 'venv/lib/python3.10/site-packages/pymongo/_azure_helpers.py', 'venv/lib/python3.10/site-packages/pymongo/uri_parser.py', 'venv/lib/python3.10/site-packages/pymongo/auth_oidc_shared.py', 'venv/lib/python3.10/site-packages/pymongo/logger.py', 'venv/lib/python3.10/site-packages/pymongo/common.py', 'venv/lib/python3.10/site-packages/pymongo/pool_options.py', 'venv/lib/python3.10/site-packages/pymongo/server_api.py', 'venv/lib/python3.10/site-packages/pymongo/operations.py', 'venv/lib/python3.10/site-packages/pymongo/srv_resolver.py', 'venv/lib/python3.10/site-packages/pymongo/topology_description.py', 'venv/lib/python3.10/site-packages/pymongo/event_loggers.py', 'venv/lib/python3.10/site-packages/pymongo/client_options.py', 'venv/lib/python3.10/site-packages/pymongo/pool.py', 'venv/lib/python3.10/site-packages/pymongo/lock.py', 'venv/lib/python3.10/site-packages/pymongo/auth_shared.py', 'venv/lib/python3.10/site-packages/pymongo/read_preferences.py', 'venv/lib/python3.10/site-packages/pymongo/_gcp_helpers.py', 'venv/lib/python3.10/site-packages/pymongo/read_concern.py', 'venv/lib/python3.10/site-packages/pymongo/socket_checker.py', 'venv/lib/python3.10/site-packages/pymongo/hello.py', 'venv/lib/python3.10/site-packages/pymongo/server_selectors.py', 'venv/lib/python3.10/site-packages/pymongo/collation.py', 'venv/lib/python3.10/site-packages/pymongo/max_staleness_selectors.py', 'venv/lib/python3.10/site-packages/pymongo/ocsp_support.py', 'venv/lib/python3.10/site-packages/pymongo/ssl_context.py'. Reloading...
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+INFO:     Started server process [67162]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/pymongo/asynchronous/monitor.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/change_stream.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/settings.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/collection.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/network.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/database.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/aggregation.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/bulk.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:db.mongo:MongoDB connection closed.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [67162]
+WARNING:  WatchFiles detected changes in 'venv/lib/python3.10/site-packages/pymongo/synchronous/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/client_session.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/server.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/auth.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/pool.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/topology.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/bulk.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/cursor.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/helpers.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/monitor.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/change_stream.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/client_session.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/settings.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/mongo_client.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/client_bulk.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/collection.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth_oidc.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/topology.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/__init__.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/encryption.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/server.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/command_cursor.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/cursor.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/database.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/pool.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/aggregation.py', 'venv/lib/python3.10/site-packages/pymongo/asynchronous/helpers.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/periodic_executor.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/auth_aws.py', 'venv/lib/python3.10/site-packages/pymongo/synchronous/__init__.py'. Reloading...
+INFO:     Started server process [67173]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+INFO:     Started server process [67187]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'db/__init__.py', 'main.py', 'services/repositories/base.py', 'db/mongo.py', 'config.py', 'services/repositories/__init__.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:db.mongo:MongoDB connection closed.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [67187]
+INFO:     Started server process [67651]
+INFO:     Waiting for application startup.
+INFO:db.mongo:Connected to MongoDB at mongodb://localhost:27017
+INFO:     Application startup complete.
+INFO:     127.0.0.1:58263 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Using cached trends
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:58264 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58263 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:58266 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Tender Moment of Reflection: The Future Dad in the Digital Age"
+
+In the heart of a bustlin...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"Modiji's power nap game is on point. #DadsWhoNap #oc #thebrand'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763025978.png
+INFO:services.analytics:Logged generation event: gen_20251113_145621_19
+INFO:services.brand_memory:Added caption to history: "Modiji's power nap game is on point. #DadsWhoNap #oc #thebrand
+INFO:routers.generate:Meme generated successfully: meme_1763025978.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:58274 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58293 - "GET /outputs/meme_1763025978.png HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Tender Moment: The Future Dreamer - A Me_irl Dad's Reflection"
+
+In the heart of a bustling...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"Modiji, in deep sleep mode. We'll take over from here, don't worry. #OC #TheBrand #DutyCalls'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763026021.png
+INFO:services.analytics:Logged generation event: gen_20251113_145705_20
+INFO:services.brand_memory:Added caption to history: "Modiji, in deep sleep mode. We'll take over from here, don't worry. #OC #TheBrand #DutyCalls
+INFO:routers.generate:Meme generated successfully: meme_1763026021.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:58315 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58327 - "GET /outputs/meme_1763026021.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58552 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:58553 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58552 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:58555 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60903 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60905 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60903 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60907 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60921 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60922 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60921 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60924 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64254 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:64256 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64254 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:64258 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65018 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:65020 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65018 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:65024 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49767 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:49768 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49767 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:49770 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "Me_irl: The Coding Dad's Late-Night Triumph"
+
+In the dimly lit, minimalist sanctuary of a mo...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"3AM, the witching hour for coders. The bug is squashed, the coffee is brewing - The Brand, oc ☕️🐛'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763041538.png
+INFO:services.analytics:Logged generation event: gen_20251113_191543_21
+INFO:services.brand_memory:Added caption to history: "3AM, the witching hour for coders. The bug is squashed, the coffee is brewing - The Brand, oc ☕️🐛
+INFO:routers.generate:Meme generated successfully: meme_1763041538.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:49841 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49851 - "GET /outputs/meme_1763041538.png HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "Me_irl: The Coding Dad's Triumphant 3am Breakthrough"
+
+In the dimly lit, minimalist living r...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"When you're a coder and the bug is finally squashed at 3am, but you're still not sure if you're a hero or a dad... 💻🕰️🤓 #thebrand #me_irl #oc #take #dads'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763041568.png
+INFO:services.analytics:Logged generation event: gen_20251113_191613_22
+INFO:services.brand_memory:Added caption to history: "When you're a coder and the bug is finally squashed at 3am, but you're still not sure if you're a hero or a dad... 💻🕰️🤓 #thebrand #me_irl #oc #take #dads
+INFO:routers.generate:Meme generated successfully: meme_1763041568.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:49857 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49865 - "GET /outputs/meme_1763041568.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50211 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50213 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50211 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50215 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51779 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:51780 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:51779 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51783 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Timeless Bond: The Father-Son Rivalry on the Field of Dreams"
+
+In the heart of a vibrant, ...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"When you think you've got the perfect pass, but Modi-Ronaldo's got other plans 🤯 #thebrand #me_irl #oc #take'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763047163.png
+INFO:services.analytics:Logged generation event: gen_20251113_204926_23
+INFO:services.brand_memory:Added caption to history: "When you think you've got the perfect pass, but Modi-Ronaldo's got other plans 🤯 #thebrand #me_irl #oc #take
+INFO:routers.generate:Meme generated successfully: meme_1763047163.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:56938 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56950 - "GET /outputs/meme_1763047163.png HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Timeless Bond: A Father-Son Moment on the Field of Dreams"
+
+In the heart of a sprawling, s...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"ModiJ and Ronaldo: the perfect blend of old-school and new-school football skills 🥅💼 #dads #me_irl #thebrand'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763047212.png
+INFO:services.analytics:Logged generation event: gen_20251113_205016_24
+INFO:services.brand_memory:Added caption to history: "ModiJ and Ronaldo: the perfect blend of old-school and new-school football skills 🥅💼 #dads #me_irl #thebrand
+INFO:routers.generate:Meme generated successfully: meme_1763047212.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:56970 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56978 - "GET /outputs/meme_1763047212.png HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Timeless Bond: Father and Son, United in the Beautiful Game"
+
+In the heart of a bustling c...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"When Modi takes the field, it's not just a game, it's a world cup final... in your living room. #thebrand #me_irl #oc #take'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763047254.png
+INFO:services.analytics:Logged generation event: gen_20251113_205056_25
+INFO:services.brand_memory:Added caption to history: "When Modi takes the field, it's not just a game, it's a world cup final... in your living room. #thebrand #me_irl #oc #take
+INFO:routers.generate:Meme generated successfully: meme_1763047254.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:57005 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57016 - "GET /outputs/meme_1763047254.png HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Timeless Bond: The Unspoken Connection"
+
+In the heart of a sprawling urban park, bathed in...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"When you think you've got the perfect take on football, but then... 😮🤯 #thebrand #oc #take #dads'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763047273.png
+INFO:services.analytics:Logged generation event: gen_20251113_205116_26
+INFO:services.brand_memory:Added caption to history: "When you think you've got the perfect take on football, but then... 😮🤯 #thebrand #oc #take #dads
+INFO:routers.generate:Meme generated successfully: meme_1763047273.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:57021 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57030 - "GET /outputs/meme_1763047273.png HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:routers.generate:Using trends: ['me_irl', 'oc', 'take', 'dads/future', 'dads']
+INFO:services.ai_engine:Step 1: Enhancing prompt via OpenRouter...
+INFO:services.ai_engine:✅ Enhanced prompt generated via OpenRouter: Title: "A Timeless Bond: A Father-Son Moment on the Pitch"
+
+In the heart of a vibrant, sun-drenched ...
+INFO:services.ai_engine:Step 2: Generating image...
+INFO:services.ai_engine:✅ Image generated successfully via Flux.
+INFO:services.ai_engine:Step 3: Generating captions...
+INFO:services.ai_engine:Step 4: Overlaying caption '"When you're trying to keep up with Ronaldo, but all you can think about is dinner... #dads #thebrand'...
+INFO:services.ai_engine:✅ Meme saved: /Users/revtiramantripathi/Desktop/untitled folder 5/aimemeforge/backend/outputs/meme_1763047308.png
+INFO:services.analytics:Logged generation event: gen_20251113_205151_27
+INFO:services.brand_memory:Added caption to history: "When you're trying to keep up with Ronaldo, but all you can think about is dinner... #dads #thebrand
+INFO:routers.generate:Meme generated successfully: meme_1763047308.png
+🎨 Generating image via Hugging Face... please wait...
+INFO:     127.0.0.1:57050 - "POST /generate/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57094 - "GET /outputs/meme_1763047308.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60101 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60103 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60101 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60106 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61272 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:61273 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:61272 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61275 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65158 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:65159 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65161 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:65158 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60834 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60835 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60837 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:60834 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49584 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:49586 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:49586 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49588 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50376 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50377 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50379 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50376 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50394 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50395 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50394 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50397 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50549 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50551 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:50549 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50553 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52735 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:52736 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52739 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:52735 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52769 - "GET /brand/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:52770 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:services.trend_intelligence:Returning cached trends
+INFO:     127.0.0.1:52769 - "GET /trends/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52772 - "GET /brand/ HTTP/1.1" 200 OK
+./start_backend.sh: line 28: 35695 Killed: 9               uvicorn main:app --reload --port 8000

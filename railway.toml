@@ -1,11 +1,11 @@
 # Railway configuration for backend service
-# Root Directory should be LEFT EMPTY in Railway Settings
+# Root Directory should be set to "backend" in Railway Settings UI
 
 [build]
-builder = "DOCKERFILE"
-dockerfilePath = "backend/Dockerfile"
+# Use Nixpacks instead of Dockerfile for better monorepo support
+builder = "NIXPACKS"
 
 [deploy]
-startCommand = "cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
+startCommand = "uvicorn main:app --host 0.0.0.0 --port $PORT"
 restartPolicyType = "ON_FAILURE"
 restartPolicyMaxRetries = 10

@@ -860,3 +860,7 @@ Frontend will be available at: http://localhost:5173
 3:37:21 AM [vite] hmr update /src/components/sections/GeneratorSection.jsx, /src/index.css
 3:37:32 AM [vite] hmr update /src/components/sections/GeneratorSection.jsx, /src/index.css
 3:38:45 AM [vite] hmr update /src/components/sections/GeneratorSection.jsx, /src/index.css
+1:49:25 PM [vite] hmr update /src/index.css, /src/App.jsx
+1:59:22 PM [vite] hmr update /src/index.css, /src/App.jsx
+2:48:28 PM [vite] .env changed, restarting server...
+2:48:28 PM [vite] server restarted.

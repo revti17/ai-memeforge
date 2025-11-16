@@ -1,22 +1,8 @@
 {
   "trends": [
     {
-      "keyword": "oc",
-      "score": 47564,
-      "source_count": 2,
-      "sources": [
-        "reddit_wholesomememes",
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 7927.333333333333,
-      "timestamp": "2025-11-16T02:34:49.423724"
-    },
-    {
       "keyword": "me_irl",
-      "score": 38584,
+      "score": 61466,
       "source_count": 1,
       "sources": [
         "reddit_me_irl"
@@ -24,12 +10,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 5512.0,
-      "timestamp": "2025-11-16T02:34:54.120066"
+      "velocity": 7683.25,
+      "timestamp": "2025-11-16T13:37:25.156001"
     },
     {
-      "keyword": "rev",
-      "score": 32159,
+      "keyword": "meirl",
+      "score": 39009,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -37,12 +23,25 @@
       "categories": [
         "social"
       ],
-      "velocity": 32159.0,
-      "timestamp": "2025-11-16T02:34:49.423803"
+      "velocity": 39009.0,
+      "timestamp": "2025-11-16T13:37:20.701792"
     },
     {
-      "keyword": "michael",
-      "score": 32159,
+      "keyword": "oc",
+      "score": 30528,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 6105.6,
+      "timestamp": "2025-11-16T13:37:26.867478"
+    },
+    {
+      "keyword": "\"ocean",
+      "score": 25624,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -50,12 +49,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 32159.0,
-      "timestamp": "2025-11-16T02:34:49.423808"
+      "velocity": 25624.0,
+      "timestamp": "2025-11-16T13:37:20.701654"
     },
     {
-      "keyword": "woolf",
-      "score": 32159,
+      "keyword": "gaia\"",
+      "score": 25624,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -63,12 +62,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 32159.0,
-      "timestamp": "2025-11-16T02:34:49.423813"
+      "velocity": 25624.0,
+      "timestamp": "2025-11-16T13:37:20.701698"
     },
     {
-      "keyword": "faith",
-      "score": 32159,
+      "keyword": "japan's",
+      "score": 25624,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -76,12 +75,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 32159.0,
-      "timestamp": "2025-11-16T02:34:49.423818"
+      "velocity": 25624.0,
+      "timestamp": "2025-11-16T13:37:20.701707"
     },
     {
-      "keyword": "leader",
-      "score": 32159,
+      "keyword": "first",
+      "score": 25624,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -89,12 +88,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 32159.0,
-      "timestamp": "2025-11-16T02:34:49.423823"
+      "velocity": 25624.0,
+      "timestamp": "2025-11-16T13:37:20.701713"
     },
     {
-      "keyword": "should",
-      "score": 31593,
+      "keyword": "underwater",
+      "score": 25624,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -102,104 +101,25 @@
       "categories": [
         "social"
       ],
-      "velocity": 15796.5,
-      "timestamp": "2025-11-16T02:34:49.423596"
-    },
-    {
-      "keyword": "ask",
-      "score": 31593,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 15796.5,
-      "timestamp": "2025-11-16T02:34:49.423602"
-    },
-    {
-      "keyword": "shapiro",
-      "score": 31593,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 15796.5,
-      "timestamp": "2025-11-16T02:34:49.423607"
+      "velocity": 25624.0,
+      "timestamp": "2025-11-16T13:37:20.701719"
     },
     {
       "keyword": "being",
-      "score": 30367,
-      "source_count": 2,
-      "sources": [
-        "reddit_wholesomememes",
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 15183.5,
-      "timestamp": "2025-11-16T02:34:49.423762"
-    },
-    {
-      "keyword": "valve",
-      "score": 28179,
+      "score": 21763,
       "source_count": 1,
       "sources": [
-        "reddit_memes"
+        "reddit_wholesomememes"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 28179.0,
-      "timestamp": "2025-11-16T02:34:50.930540"
-    },
-    {
-      "keyword": "just",
-      "score": 28179,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 28179.0,
-      "timestamp": "2025-11-16T02:34:50.930546"
-    },
-    {
-      "keyword": "keeps",
-      "score": 28179,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 28179.0,
-      "timestamp": "2025-11-16T02:34:50.930552"
-    },
-    {
-      "keyword": "winning",
-      "score": 28179,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 28179.0,
-      "timestamp": "2025-11-16T02:34:50.930557"
+      "velocity": 21763.0,
+      "timestamp": "2025-11-16T13:37:26.867530"
     },
     {
       "keyword": "cute",
-      "score": 21761,
+      "score": 21763,
       "source_count": 1,
       "sources": [
         "reddit_wholesomememes"
@@ -207,12 +127,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 21761.0,
-      "timestamp": "2025-11-16T02:34:55.698372"
+      "velocity": 21763.0,
+      "timestamp": "2025-11-16T13:37:26.867532"
     },
     {
       "keyword": "fluff",
-      "score": 21761,
+      "score": 21763,
       "source_count": 1,
       "sources": [
         "reddit_wholesomememes"
@@ -220,25 +140,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 21761.0,
-      "timestamp": "2025-11-16T02:34:55.698377"
+      "velocity": 21763.0,
+      "timestamp": "2025-11-16T13:37:26.867534"
     },
     {
-      "keyword": "solidarity",
-      "score": 18305,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 18305.0,
-      "timestamp": "2025-11-16T02:34:50.930697"
-    },
-    {
-      "keyword": "highlighter",
-      "score": 17702,
+      "keyword": "epstein",
+      "score": 17559,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -246,12 +153,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 17702.0,
-      "timestamp": "2025-11-16T02:34:49.423717"
+      "velocity": 17559.0,
+      "timestamp": "2025-11-16T13:37:20.702540"
     },
     {
-      "keyword": "state",
-      "score": 16537,
+      "keyword": "survivor",
+      "score": 17559,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -259,12 +166,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 16537.0,
-      "timestamp": "2025-11-16T02:34:49.423504"
+      "velocity": 17559.0,
+      "timestamp": "2025-11-16T13:37:20.702549"
     },
     {
-      "keyword": "trooper",
-      "score": 16537,
+      "keyword": "pushes",
+      "score": 17559,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -272,12 +179,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 16537.0,
-      "timestamp": "2025-11-16T02:34:49.423555"
+      "velocity": 17559.0,
+      "timestamp": "2025-11-16T13:37:20.702555"
     },
     {
-      "keyword": "texas",
-      "score": 16537,
+      "keyword": "release",
+      "score": 17559,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -285,12 +192,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 16537.0,
-      "timestamp": "2025-11-16T02:34:49.423562"
+      "velocity": 17559.0,
+      "timestamp": "2025-11-16T13:37:20.702560"
     },
     {
-      "keyword": "a&amp;m",
-      "score": 16537,
+      "keyword": "files",
+      "score": 17559,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -298,12 +205,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 16537.0,
-      "timestamp": "2025-11-16T02:34:49.423567"
+      "velocity": 17559.0,
+      "timestamp": "2025-11-16T13:37:20.702566"
     },
     {
-      "keyword": "intentionally",
-      "score": 16537,
+      "keyword": "house",
+      "score": 17053,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -311,12 +218,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 16537.0,
-      "timestamp": "2025-11-16T02:34:49.423573"
+      "velocity": 17053.0,
+      "timestamp": "2025-11-16T13:37:20.701865"
     },
     {
-      "keyword": "marge",
-      "score": 12691,
+      "keyword": "plans",
+      "score": 17053,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -324,12 +231,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 12691.0,
-      "timestamp": "2025-11-16T02:34:49.423628"
+      "velocity": 17053.0,
+      "timestamp": "2025-11-16T13:37:20.701871"
     },
     {
-      "keyword": "suddenly",
-      "score": 12691,
+      "keyword": "vote",
+      "score": 17053,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -337,12 +244,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 12691.0,
-      "timestamp": "2025-11-16T02:34:49.423637"
+      "velocity": 17053.0,
+      "timestamp": "2025-11-16T13:37:20.701877"
     },
     {
-      "keyword": "realizes",
-      "score": 12691,
+      "keyword": "tuesday",
+      "score": 17053,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -350,12 +257,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 12691.0,
-      "timestamp": "2025-11-16T02:34:49.423643"
+      "velocity": 17053.0,
+      "timestamp": "2025-11-16T13:37:20.701882"
     },
     {
-      "keyword": "trump",
-      "score": 12691,
+      "keyword": "releasing",
+      "score": 17053,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -363,156 +270,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 12691.0,
-      "timestamp": "2025-11-16T02:34:49.423648"
-    },
-    {
-      "keyword": "supporters",
-      "score": 12691,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 12691.0,
-      "timestamp": "2025-11-16T02:34:49.423653"
-    },
-    {
-      "keyword": "man",
-      "score": 12683,
-      "source_count": 2,
-      "sources": [
-        "reddit_dankmemes",
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 6341.5,
-      "timestamp": "2025-11-16T02:34:49.423747"
-    },
-    {
-      "keyword": "jack",
-      "score": 11793,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11793.0,
-      "timestamp": "2025-11-16T02:34:49.423677"
-    },
-    {
-      "keyword": "doherty",
-      "score": 11793,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11793.0,
-      "timestamp": "2025-11-16T02:34:49.423683"
-    },
-    {
-      "keyword": "been",
-      "score": 11793,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11793.0,
-      "timestamp": "2025-11-16T02:34:49.423688"
-    },
-    {
-      "keyword": "arrested",
-      "score": 11793,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11793.0,
-      "timestamp": "2025-11-16T02:34:49.423693"
-    },
-    {
-      "keyword": "miami",
-      "score": 11793,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11793.0,
-      "timestamp": "2025-11-16T02:34:49.423698"
-    },
-    {
-      "keyword": "something",
-      "score": 11565,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11565.0,
-      "timestamp": "2025-11-16T02:34:52.495308"
-    },
-    {
-      "keyword": "fishy",
-      "score": 11565,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11565.0,
-      "timestamp": "2025-11-16T02:34:52.495310"
-    },
-    {
-      "keyword": "going",
-      "score": 11565,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11565.0,
-      "timestamp": "2025-11-16T02:34:52.495312"
-    },
-    {
-      "keyword": "ight",
-      "score": 11179,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 11179.0,
-      "timestamp": "2025-11-16T02:34:49.423835"
+      "velocity": 17053.0,
+      "timestamp": "2025-11-16T13:37:20.701891"
     },
     {
       "keyword": "\"shower",
-      "score": 10082,
+      "score": 16366,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -520,12 +283,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 10082.0,
-      "timestamp": "2025-11-16T02:34:50.930371"
+      "velocity": 16366.0,
+      "timestamp": "2025-11-16T13:37:22.286470"
     },
     {
       "keyword": "gels",
-      "score": 10082,
+      "score": 16366,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -533,12 +296,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 10082.0,
-      "timestamp": "2025-11-16T02:34:50.930438"
+      "velocity": 16366.0,
+      "timestamp": "2025-11-16T13:37:22.286478"
     },
     {
       "keyword": "assemble!!!\"",
-      "score": 10082,
+      "score": 16366,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -546,12 +309,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 10082.0,
-      "timestamp": "2025-11-16T02:34:50.930447"
+      "velocity": 16366.0,
+      "timestamp": "2025-11-16T13:37:22.286485"
     },
     {
-      "keyword": "billboard",
-      "score": 9380,
+      "keyword": "sauce",
+      "score": 14718,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -559,12 +322,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 9380.0,
-      "timestamp": "2025-11-16T02:34:49.424694"
+      "velocity": 14718.0,
+      "timestamp": "2025-11-16T13:37:20.702188"
     },
     {
-      "keyword": "trump\u2019s",
-      "score": 9380,
+      "keyword": "drawer",
+      "score": 14718,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -572,12 +335,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 9380.0,
-      "timestamp": "2025-11-16T02:34:49.424715"
+      "velocity": 14718.0,
+      "timestamp": "2025-11-16T13:37:20.702201"
     },
     {
-      "keyword": "crimes",
-      "score": 9380,
+      "keyword": "united",
+      "score": 14647,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -585,12 +348,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 9380.0,
-      "timestamp": "2025-11-16T02:34:49.424721"
+      "velocity": 14647.0,
+      "timestamp": "2025-11-16T13:37:20.701909"
     },
     {
-      "keyword": "least",
-      "score": 9380,
+      "keyword": "states",
+      "score": 14647,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -598,12 +361,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 9380.0,
-      "timestamp": "2025-11-16T02:34:49.424727"
+      "velocity": 14647.0,
+      "timestamp": "2025-11-16T13:37:20.701915"
     },
     {
-      "keyword": "ones",
-      "score": 9380,
+      "keyword": "isn't",
+      "score": 14647,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -611,12 +374,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 9380.0,
-      "timestamp": "2025-11-16T02:34:49.424732"
+      "velocity": 14647.0,
+      "timestamp": "2025-11-16T13:37:20.701920"
     },
     {
-      "keyword": "who",
-      "score": 8606,
+      "keyword": "ready",
+      "score": 14647,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -624,12 +387,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 8606.0,
-      "timestamp": "2025-11-16T02:34:49.423752"
+      "velocity": 14647.0,
+      "timestamp": "2025-11-16T13:37:20.701926"
     },
     {
-      "keyword": "'faked'",
-      "score": 8606,
+      "keyword": "yet",
+      "score": 14647,
       "source_count": 1,
       "sources": [
         "reddit_all"
@@ -637,25 +400,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 8606.0,
-      "timestamp": "2025-11-16T02:34:49.423757"
+      "velocity": 14647.0,
+      "timestamp": "2025-11-16T13:37:20.701932"
     },
     {
-      "keyword": "lawyer",
-      "score": 8606,
-      "source_count": 1,
-      "sources": [
-        "reddit_all"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 8606.0,
-      "timestamp": "2025-11-16T02:34:49.423767"
-    },
-    {
-      "keyword": "it\u2019s",
-      "score": 5083,
+      "keyword": "something",
+      "score": 13983,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -663,12 +413,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 5083.0,
-      "timestamp": "2025-11-16T02:34:52.495270"
+      "velocity": 13983.0,
+      "timestamp": "2025-11-16T13:37:23.857215"
     },
     {
-      "keyword": "hell",
-      "score": 5083,
+      "keyword": "fishy",
+      "score": 13983,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -676,12 +426,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 5083.0,
-      "timestamp": "2025-11-16T02:34:52.495294"
+      "velocity": 13983.0,
+      "timestamp": "2025-11-16T13:37:23.857221"
     },
     {
-      "keyword": "rabbit",
-      "score": 5083,
+      "keyword": "going",
+      "score": 13983,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -689,130 +439,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 5083.0,
-      "timestamp": "2025-11-16T02:34:52.495296"
-    },
-    {
-      "keyword": "hole",
-      "score": 5083,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 5083.0,
-      "timestamp": "2025-11-16T02:34:52.495298"
-    },
-    {
-      "keyword": "their",
-      "score": 4786,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 4786.0,
-      "timestamp": "2025-11-16T02:34:50.930509"
-    },
-    {
-      "keyword": "side",
-      "score": 4786,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 4786.0,
-      "timestamp": "2025-11-16T02:34:50.930516"
-    },
-    {
-      "keyword": "business",
-      "score": 4786,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 4786.0,
-      "timestamp": "2025-11-16T02:34:50.930522"
-    },
-    {
-      "keyword": "cool",
-      "score": 4765,
-      "source_count": 2,
-      "sources": [
-        "reddit_dankmemes",
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 2382.5,
-      "timestamp": "2025-11-16T02:34:52.495320"
-    },
-    {
-      "keyword": "sky",
-      "score": 4445,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 4445.0,
-      "timestamp": "2025-11-16T02:34:55.698298"
-    },
-    {
-      "keyword": "play",
-      "score": 4077,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 4077.0,
-      "timestamp": "2025-11-16T02:34:52.495317"
-    },
-    {
-      "keyword": "problem",
-      "score": 3163,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 3163.0,
-      "timestamp": "2025-11-16T02:34:50.930640"
-    },
-    {
-      "keyword": "solved",
-      "score": 3163,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 3163.0,
-      "timestamp": "2025-11-16T02:34:50.930646"
+      "velocity": 13983.0,
+      "timestamp": "2025-11-16T13:37:23.857227"
     },
     {
       "keyword": "rise",
-      "score": 2873,
+      "score": 13716,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -820,12 +452,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 2873.0,
-      "timestamp": "2025-11-16T02:34:50.930472"
+      "velocity": 13716.0,
+      "timestamp": "2025-11-16T13:37:22.286349"
     },
     {
       "keyword": "shine",
-      "score": 2873,
+      "score": 13716,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -833,12 +465,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 2873.0,
-      "timestamp": "2025-11-16T02:34:50.930479"
+      "velocity": 13716.0,
+      "timestamp": "2025-11-16T13:37:22.286360"
     },
     {
       "keyword": "mr",
-      "score": 2873,
+      "score": 13716,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -846,12 +478,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 2873.0,
-      "timestamp": "2025-11-16T02:34:50.930485"
+      "velocity": 13716.0,
+      "timestamp": "2025-11-16T13:37:22.286368"
     },
     {
       "keyword": "freeman",
-      "score": 2873,
+      "score": 13716,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -859,38 +491,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 2873.0,
-      "timestamp": "2025-11-16T02:34:50.930490"
+      "velocity": 13716.0,
+      "timestamp": "2025-11-16T13:37:22.286376"
     },
     {
-      "keyword": "fairy",
-      "score": 1997,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1997.0,
-      "timestamp": "2025-11-16T02:34:55.698387"
-    },
-    {
-      "keyword": "godmother",
-      "score": 1997,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1997.0,
-      "timestamp": "2025-11-16T02:34:55.698390"
-    },
-    {
-      "keyword": "everything",
-      "score": 1910,
+      "keyword": "five-second",
+      "score": 11210,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -898,12 +504,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 1910.0,
-      "timestamp": "2025-11-16T02:34:50.930617"
+      "velocity": 11210.0,
+      "timestamp": "2025-11-16T13:37:22.286224"
     },
     {
-      "keyword": "connected",
-      "score": 1910,
+      "keyword": "stamina",
+      "score": 11210,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -911,259 +517,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 1910.0,
-      "timestamp": "2025-11-16T02:34:50.930624"
+      "velocity": 11210.0,
+      "timestamp": "2025-11-16T13:37:22.286234"
     },
     {
-      "keyword": "careful",
-      "score": 1777,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1777.0,
-      "timestamp": "2025-11-16T02:34:52.495366"
-    },
-    {
-      "keyword": "while",
-      "score": 1777,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1777.0,
-      "timestamp": "2025-11-16T02:34:52.495368"
-    },
-    {
-      "keyword": "shopping",
-      "score": 1777,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1777.0,
-      "timestamp": "2025-11-16T02:34:52.495370"
-    },
-    {
-      "keyword": "comic",
-      "score": 1602,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1602.0,
-      "timestamp": "2025-11-16T02:34:55.698354"
-    },
-    {
-      "keyword": "strugles",
-      "score": 1602,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1602.0,
-      "timestamp": "2025-11-16T02:34:55.698357"
-    },
-    {
-      "keyword": "making",
-      "score": 1602,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1602.0,
-      "timestamp": "2025-11-16T02:34:55.698360"
-    },
-    {
-      "keyword": "art",
-      "score": 1602,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1602.0,
-      "timestamp": "2025-11-16T02:34:55.698362"
-    },
-    {
-      "keyword": "irl",
-      "score": 1379,
-      "source_count": 1,
-      "sources": [
-        "reddit_me_irl"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 689.5,
-      "timestamp": "2025-11-16T02:34:54.120093"
-    },
-    {
-      "keyword": "happened",
-      "score": 1110,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1110.0,
-      "timestamp": "2025-11-16T02:34:55.698284"
-    },
-    {
-      "keyword": "countless",
-      "score": 1110,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1110.0,
-      "timestamp": "2025-11-16T02:34:55.698287"
-    },
-    {
-      "keyword": "times",
-      "score": 1110,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1110.0,
-      "timestamp": "2025-11-16T02:34:55.698290"
-    },
-    {
-      "keyword": "homecoming",
-      "score": 1025,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1025.0,
-      "timestamp": "2025-11-16T02:34:55.698339"
-    },
-    {
-      "keyword": "love",
-      "score": 1025,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1025.0,
-      "timestamp": "2025-11-16T02:34:55.698342"
-    },
-    {
-      "keyword": "hex",
-      "score": 1025,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1025.0,
-      "timestamp": "2025-11-16T02:34:55.698344"
-    },
-    {
-      "keyword": "home",
-      "score": 1012,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1012.0,
-      "timestamp": "2025-11-16T02:34:55.698307"
-    },
-    {
-      "keyword": "cooking",
-      "score": 1012,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 1012.0,
-      "timestamp": "2025-11-16T02:34:55.698309"
-    },
-    {
-      "keyword": "got",
-      "score": 930,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 930.0,
-      "timestamp": "2025-11-16T02:34:52.495327"
-    },
-    {
-      "keyword": "him",
-      "score": 930,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 930.0,
-      "timestamp": "2025-11-16T02:34:52.495329"
-    },
-    {
-      "keyword": "now",
-      "score": 930,
-      "source_count": 1,
-      "sources": [
-        "reddit_dankmemes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 930.0,
-      "timestamp": "2025-11-16T02:34:52.495332"
-    },
-    {
-      "keyword": "1979",
-      "score": 804,
+      "keyword": "bar",
+      "score": 11210,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -1171,12 +530,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 804.0,
-      "timestamp": "2025-11-16T02:34:50.930577"
+      "velocity": 11210.0,
+      "timestamp": "2025-11-16T13:37:22.286241"
     },
     {
-      "keyword": "sweden",
-      "score": 804,
+      "keyword": "take",
+      "score": 11210,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -1184,12 +543,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 804.0,
-      "timestamp": "2025-11-16T02:34:50.930583"
+      "velocity": 11210.0,
+      "timestamp": "2025-11-16T13:37:22.286248"
     },
     {
-      "keyword": "invented",
-      "score": 804,
+      "keyword": "leave",
+      "score": 11210,
       "source_count": 1,
       "sources": [
         "reddit_memes"
@@ -1197,129 +556,116 @@
       "categories": [
         "social"
       ],
-      "velocity": 804.0,
-      "timestamp": "2025-11-16T02:34:50.930589"
+      "velocity": 11210.0,
+      "timestamp": "2025-11-16T13:37:22.286256"
     },
     {
-      "keyword": "sickening",
-      "score": 804,
+      "keyword": "ice",
+      "score": 10218,
       "source_count": 1,
       "sources": [
-        "reddit_memes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 804.0,
-      "timestamp": "2025-11-16T02:34:50.930594"
+      "velocity": 10218.0,
+      "timestamp": "2025-11-16T13:37:20.702231"
     },
     {
-      "keyword": "activism",
-      "score": 804,
+      "keyword": "begun",
+      "score": 10218,
       "source_count": 1,
       "sources": [
-        "reddit_memes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 804.0,
-      "timestamp": "2025-11-16T02:34:50.930600"
+      "velocity": 10218.0,
+      "timestamp": "2025-11-16T13:37:20.702238"
     },
     {
-      "keyword": "nah",
-      "score": 766,
+      "keyword": "arrests",
+      "score": 10218,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 766.0,
-      "timestamp": "2025-11-16T02:34:52.495342"
+      "velocity": 10218.0,
+      "timestamp": "2025-11-16T13:37:20.702244"
     },
     {
-      "keyword": "would",
-      "score": 766,
+      "keyword": "north",
+      "score": 10218,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 766.0,
-      "timestamp": "2025-11-16T02:34:52.495344"
+      "velocity": 10218.0,
+      "timestamp": "2025-11-16T13:37:20.702249"
     },
     {
-      "keyword": "crazy",
-      "score": 766,
+      "keyword": "carolina",
+      "score": 10218,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 766.0,
-      "timestamp": "2025-11-16T02:34:52.495346"
+      "velocity": 10218.0,
+      "timestamp": "2025-11-16T13:37:20.702255"
     },
     {
-      "keyword": "don't",
-      "score": 688,
+      "keyword": "don\u2019t",
+      "score": 10081,
       "source_count": 1,
       "sources": [
-        "reddit_wholesomememes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 688.0,
-      "timestamp": "2025-11-16T02:34:55.698240"
+      "velocity": 10081.0,
+      "timestamp": "2025-11-16T13:37:20.702156"
     },
     {
-      "keyword": "forget",
-      "score": 688,
+      "keyword": "need",
+      "score": 10081,
       "source_count": 1,
       "sources": [
-        "reddit_wholesomememes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 688.0,
-      "timestamp": "2025-11-16T02:34:55.698265"
+      "velocity": 10081.0,
+      "timestamp": "2025-11-16T13:37:20.702164"
     },
     {
-      "keyword": "how",
-      "score": 688,
+      "keyword": "it\u2026",
+      "score": 10081,
       "source_count": 1,
       "sources": [
-        "reddit_wholesomememes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 688.0,
-      "timestamp": "2025-11-16T02:34:55.698268"
+      "velocity": 10081.0,
+      "timestamp": "2025-11-16T13:37:20.702170"
     },
     {
-      "keyword": "you",
-      "score": 688,
-      "source_count": 1,
-      "sources": [
-        "reddit_wholesomememes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 688.0,
-      "timestamp": "2025-11-16T02:34:55.698273"
-    },
-    {
-      "keyword": "bigger",
-      "score": 462,
+      "keyword": "it\u2019s",
+      "score": 9865,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -1327,38 +673,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 231.0,
-      "timestamp": "2025-11-16T02:34:52.495379"
+      "velocity": 9865.0,
+      "timestamp": "2025-11-16T13:37:23.857061"
     },
     {
-      "keyword": "very",
-      "score": 345,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 345.0,
-      "timestamp": "2025-11-16T02:34:50.930663"
-    },
-    {
-      "keyword": "sad",
-      "score": 345,
-      "source_count": 1,
-      "sources": [
-        "reddit_memes"
-      ],
-      "categories": [
-        "social"
-      ],
-      "velocity": 345.0,
-      "timestamp": "2025-11-16T02:34:50.930670"
-    },
-    {
-      "keyword": "pile",
-      "score": 231,
+      "keyword": "hell",
+      "score": 9865,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -1366,12 +686,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 231.0,
-      "timestamp": "2025-11-16T02:34:52.495375"
+      "velocity": 9865.0,
+      "timestamp": "2025-11-16T13:37:23.857068"
     },
     {
-      "keyword": "gets",
-      "score": 231,
+      "keyword": "rabbit",
+      "score": 9865,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -1379,12 +699,25 @@
       "categories": [
         "social"
       ],
-      "velocity": 231.0,
-      "timestamp": "2025-11-16T02:34:52.495377"
+      "velocity": 9865.0,
+      "timestamp": "2025-11-16T13:37:23.857073"
+    },
+    {
+      "keyword": "hole",
+      "score": 9865,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 9865.0,
+      "timestamp": "2025-11-16T13:37:23.857079"
     },
     {
       "keyword": "meowww",
-      "score": 221,
+      "score": 9012,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -1392,116 +725,169 @@
       "categories": [
         "social"
       ],
-      "velocity": 221.0,
-      "timestamp": "2025-11-16T02:34:52.495336"
+      "velocity": 9012.0,
+      "timestamp": "2025-11-16T13:37:23.857007"
     },
     {
-      "keyword": "actually",
-      "score": 195,
+      "keyword": "doctor",
+      "score": 8648,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 195.0,
-      "timestamp": "2025-11-16T02:34:52.495353"
+      "velocity": 8648.0,
+      "timestamp": "2025-11-16T13:37:20.701749"
     },
     {
-      "keyword": "makes",
-      "score": 195,
+      "keyword": "fixes",
+      "score": 8648,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 195.0,
-      "timestamp": "2025-11-16T02:34:52.495355"
+      "velocity": 8648.0,
+      "timestamp": "2025-11-16T13:37:20.701756"
     },
     {
-      "keyword": "wanna",
-      "score": 195,
+      "keyword": "passenger's",
+      "score": 8648,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 195.0,
-      "timestamp": "2025-11-16T02:34:52.495357"
+      "velocity": 8648.0,
+      "timestamp": "2025-11-16T13:37:20.701765"
     },
     {
-      "keyword": "buy",
-      "score": 195,
+      "keyword": "dislocated",
+      "score": 8648,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 195.0,
-      "timestamp": "2025-11-16T02:34:52.495359"
+      "velocity": 8648.0,
+      "timestamp": "2025-11-16T13:37:20.701770"
     },
     {
-      "keyword": "your",
-      "score": 195,
+      "keyword": "jaw",
+      "score": 8648,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 195.0,
-      "timestamp": "2025-11-16T02:34:52.495361"
+      "velocity": 8648.0,
+      "timestamp": "2025-11-16T13:37:20.701776"
     },
     {
-      "keyword": "dang",
-      "score": 101,
+      "keyword": "irl",
+      "score": 8050,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_me_irl"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 101.0,
-      "timestamp": "2025-11-16T02:34:52.495387"
+      "velocity": 8050.0,
+      "timestamp": "2025-11-16T13:37:25.156020"
     },
     {
-      "keyword": "movie",
-      "score": 101,
+      "keyword": "giannis",
+      "score": 7780,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 101.0,
-      "timestamp": "2025-11-16T02:34:52.495389"
+      "velocity": 7780.0,
+      "timestamp": "2025-11-16T13:37:20.701822"
     },
     {
-      "keyword": "gonna",
-      "score": 101,
+      "keyword": "gives",
+      "score": 7780,
       "source_count": 1,
       "sources": [
-        "reddit_dankmemes"
+        "reddit_all"
       ],
       "categories": [
         "social"
       ],
-      "velocity": 101.0,
-      "timestamp": "2025-11-16T02:34:52.495391"
+      "velocity": 7780.0,
+      "timestamp": "2025-11-16T13:37:20.701829"
     },
     {
-      "keyword": "huge",
-      "score": 101,
+      "keyword": "luka",
+      "score": 7780,
+      "source_count": 1,
+      "sources": [
+        "reddit_all"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 7780.0,
+      "timestamp": "2025-11-16T13:37:20.701835"
+    },
+    {
+      "keyword": "game",
+      "score": 7780,
+      "source_count": 1,
+      "sources": [
+        "reddit_all"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 7780.0,
+      "timestamp": "2025-11-16T13:37:20.701840"
+    },
+    {
+      "keyword": "ball",
+      "score": 7780,
+      "source_count": 1,
+      "sources": [
+        "reddit_all"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 7780.0,
+      "timestamp": "2025-11-16T13:37:20.701846"
+    },
+    {
+      "keyword": "cool",
+      "score": 7417,
+      "source_count": 2,
+      "sources": [
+        "reddit_wholesomememes",
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 3708.5,
+      "timestamp": "2025-11-16T13:37:23.857192"
+    },
+    {
+      "keyword": "man",
+      "score": 7299,
       "source_count": 1,
       "sources": [
         "reddit_dankmemes"
@@ -1509,12 +895,649 @@
       "categories": [
         "social"
       ],
-      "velocity": 101.0,
-      "timestamp": "2025-11-16T02:34:52.495393"
+      "velocity": 3649.5,
+      "timestamp": "2025-11-16T13:37:23.857169"
+    },
+    {
+      "keyword": "sorry",
+      "score": 6980,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 6980.0,
+      "timestamp": "2025-11-16T13:37:22.286275"
+    },
+    {
+      "keyword": "kiddo",
+      "score": 6980,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 6980.0,
+      "timestamp": "2025-11-16T13:37:22.286283"
+    },
+    {
+      "keyword": "play",
+      "score": 6235,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 6235.0,
+      "timestamp": "2025-11-16T13:37:23.857185"
+    },
+    {
+      "keyword": "finally",
+      "score": 5382,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 5382.0,
+      "timestamp": "2025-11-16T13:37:22.286140"
+    },
+    {
+      "keyword": "sky",
+      "score": 5104,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 5104.0,
+      "timestamp": "2025-11-16T13:37:26.867476"
+    },
+    {
+      "keyword": "got",
+      "score": 2671,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1335.5,
+      "timestamp": "2025-11-16T13:37:23.857157"
+    },
+    {
+      "keyword": "delabubusional",
+      "score": 2203,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 2203.0,
+      "timestamp": "2025-11-16T13:37:22.286394"
+    },
+    {
+      "keyword": "autopilot",
+      "score": 2191,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 2191.0,
+      "timestamp": "2025-11-16T13:37:22.286414"
+    },
+    {
+      "keyword": "driving",
+      "score": 2191,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 2191.0,
+      "timestamp": "2025-11-16T13:37:22.286422"
+    },
+    {
+      "keyword": "fairy",
+      "score": 1995,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1995.0,
+      "timestamp": "2025-11-16T13:37:26.867541"
+    },
+    {
+      "keyword": "godmother",
+      "score": 1995,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1995.0,
+      "timestamp": "2025-11-16T13:37:26.867543"
+    },
+    {
+      "keyword": "what",
+      "score": 1968,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1968.0,
+      "timestamp": "2025-11-16T13:37:22.286311"
+    },
+    {
+      "keyword": "they",
+      "score": 1968,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1968.0,
+      "timestamp": "2025-11-16T13:37:22.286318"
+    },
+    {
+      "keyword": "thinking",
+      "score": 1968,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1968.0,
+      "timestamp": "2025-11-16T13:37:22.286326"
+    },
+    {
+      "keyword": "like",
+      "score": 1922,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1922.0,
+      "timestamp": "2025-11-16T13:37:22.286443"
+    },
+    {
+      "keyword": "sometimes",
+      "score": 1922,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1922.0,
+      "timestamp": "2025-11-16T13:37:22.286451"
+    },
+    {
+      "keyword": "him",
+      "score": 1607,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1607.0,
+      "timestamp": "2025-11-16T13:37:23.857313"
+    },
+    {
+      "keyword": "now",
+      "score": 1607,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1607.0,
+      "timestamp": "2025-11-16T13:37:23.857319"
+    },
+    {
+      "keyword": "comic",
+      "score": 1603,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1603.0,
+      "timestamp": "2025-11-16T13:37:26.867520"
+    },
+    {
+      "keyword": "strugles",
+      "score": 1603,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1603.0,
+      "timestamp": "2025-11-16T13:37:26.867522"
+    },
+    {
+      "keyword": "making",
+      "score": 1603,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1603.0,
+      "timestamp": "2025-11-16T13:37:26.867523"
+    },
+    {
+      "keyword": "art",
+      "score": 1603,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1603.0,
+      "timestamp": "2025-11-16T13:37:26.867525"
+    },
+    {
+      "keyword": "theres",
+      "score": 1532,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1532.0,
+      "timestamp": "2025-11-16T13:37:23.856924"
+    },
+    {
+      "keyword": "line",
+      "score": 1532,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1532.0,
+      "timestamp": "2025-11-16T13:37:23.856980"
+    },
+    {
+      "keyword": "crossed",
+      "score": 1532,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1532.0,
+      "timestamp": "2025-11-16T13:37:23.856988"
+    },
+    {
+      "keyword": "happened",
+      "score": 1406,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1406.0,
+      "timestamp": "2025-11-16T13:37:26.867466"
+    },
+    {
+      "keyword": "countless",
+      "score": 1406,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1406.0,
+      "timestamp": "2025-11-16T13:37:26.867468"
+    },
+    {
+      "keyword": "times",
+      "score": 1406,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1406.0,
+      "timestamp": "2025-11-16T13:37:26.867470"
+    },
+    {
+      "keyword": "don't",
+      "score": 1182,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1182.0,
+      "timestamp": "2025-11-16T13:37:26.867413"
+    },
+    {
+      "keyword": "forget",
+      "score": 1182,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1182.0,
+      "timestamp": "2025-11-16T13:37:26.867451"
+    },
+    {
+      "keyword": "how",
+      "score": 1182,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1182.0,
+      "timestamp": "2025-11-16T13:37:26.867454"
+    },
+    {
+      "keyword": "you",
+      "score": 1182,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1182.0,
+      "timestamp": "2025-11-16T13:37:26.867458"
+    },
+    {
+      "keyword": "bills",
+      "score": 1064,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1064.0,
+      "timestamp": "2025-11-16T13:37:23.857164"
+    },
+    {
+      "keyword": "homecoming",
+      "score": 1028,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1028.0,
+      "timestamp": "2025-11-16T13:37:26.867507"
+    },
+    {
+      "keyword": "love",
+      "score": 1028,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1028.0,
+      "timestamp": "2025-11-16T13:37:26.867509"
+    },
+    {
+      "keyword": "hex",
+      "score": 1028,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1028.0,
+      "timestamp": "2025-11-16T13:37:26.867511"
+    },
+    {
+      "keyword": "home",
+      "score": 1019,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1019.0,
+      "timestamp": "2025-11-16T13:37:26.867483"
+    },
+    {
+      "keyword": "cooking",
+      "score": 1019,
+      "source_count": 1,
+      "sources": [
+        "reddit_wholesomememes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 1019.0,
+      "timestamp": "2025-11-16T13:37:26.867485"
+    },
+    {
+      "keyword": "wait",
+      "score": 614,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 614.0,
+      "timestamp": "2025-11-16T13:37:23.857109"
+    },
+    {
+      "keyword": "till",
+      "score": 614,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 614.0,
+      "timestamp": "2025-11-16T13:37:23.857115"
+    },
+    {
+      "keyword": "get",
+      "score": 614,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 614.0,
+      "timestamp": "2025-11-16T13:37:23.857121"
+    },
+    {
+      "keyword": "speech",
+      "score": 614,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 614.0,
+      "timestamp": "2025-11-16T13:37:23.857127"
+    },
+    {
+      "keyword": "unemployed",
+      "score": 329,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 329.0,
+      "timestamp": "2025-11-16T13:37:23.857242"
+    },
+    {
+      "keyword": "why",
+      "score": 328,
+      "source_count": 1,
+      "sources": [
+        "reddit_memes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 328.0,
+      "timestamp": "2025-11-16T13:37:22.286647"
+    },
+    {
+      "keyword": "favorite",
+      "score": 193,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 193.0,
+      "timestamp": "2025-11-16T13:37:23.857264"
+    },
+    {
+      "keyword": "time",
+      "score": 193,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 193.0,
+      "timestamp": "2025-11-16T13:37:23.857271"
+    },
+    {
+      "keyword": "day",
+      "score": 193,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 193.0,
+      "timestamp": "2025-11-16T13:37:23.857277"
+    },
+    {
+      "keyword": "when",
+      "score": 193,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 193.0,
+      "timestamp": "2025-11-16T13:37:23.857283"
+    },
+    {
+      "keyword": "elementary",
+      "score": 193,
+      "source_count": 1,
+      "sources": [
+        "reddit_dankmemes"
+      ],
+      "categories": [
+        "social"
+      ],
+      "velocity": 193.0,
+      "timestamp": "2025-11-16T13:37:23.857288"
     },
     {
       "keyword": "please",
-      "score": 82,
+      "score": 84,
       "source_count": 1,
       "sources": [
         "reddit_me_irl"
@@ -1522,12 +1545,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 82.0,
-      "timestamp": "2025-11-16T02:34:54.119973"
+      "velocity": 84.0,
+      "timestamp": "2025-11-16T13:37:25.155968"
     },
     {
       "keyword": "stop",
-      "score": 82,
+      "score": 84,
       "source_count": 1,
       "sources": [
         "reddit_me_irl"
@@ -1535,12 +1558,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 82.0,
-      "timestamp": "2025-11-16T02:34:54.120036"
+      "velocity": 84.0,
+      "timestamp": "2025-11-16T13:37:25.155985"
     },
     {
       "keyword": "posting",
-      "score": 82,
+      "score": 84,
       "source_count": 1,
       "sources": [
         "reddit_me_irl"
@@ -1548,12 +1571,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 82.0,
-      "timestamp": "2025-11-16T02:34:54.120041"
+      "velocity": 84.0,
+      "timestamp": "2025-11-16T13:37:25.155988"
     },
     {
       "keyword": "twitter",
-      "score": 82,
+      "score": 84,
       "source_count": 1,
       "sources": [
         "reddit_me_irl"
@@ -1561,12 +1584,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 82.0,
-      "timestamp": "2025-11-16T02:34:54.120046"
+      "velocity": 84.0,
+      "timestamp": "2025-11-16T13:37:25.155991"
     },
     {
       "keyword": "screenshots",
-      "score": 82,
+      "score": 84,
       "source_count": 1,
       "sources": [
         "reddit_me_irl"
@@ -1574,12 +1597,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 82.0,
-      "timestamp": "2025-11-16T02:34:54.120051"
+      "velocity": 84.0,
+      "timestamp": "2025-11-16T13:37:25.155993"
     },
     {
       "keyword": "peace",
-      "score": 60,
+      "score": 65,
       "source_count": 1,
       "sources": [
         "reddit_wholesomememes"
@@ -1587,12 +1610,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 60.0,
-      "timestamp": "2025-11-16T02:34:55.698316"
+      "velocity": 65.0,
+      "timestamp": "2025-11-16T13:37:26.867490"
     },
     {
       "keyword": "mind...[oc",
-      "score": 60,
+      "score": 65,
       "source_count": 1,
       "sources": [
         "reddit_wholesomememes"
@@ -1600,12 +1623,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 60.0,
-      "timestamp": "2025-11-16T02:34:55.698319"
+      "velocity": 65.0,
+      "timestamp": "2025-11-16T13:37:26.867492"
     },
     {
       "keyword": "year",
-      "score": 57,
+      "score": 63,
       "source_count": 1,
       "sources": [
         "reddit_wholesomememes"
@@ -1613,12 +1636,12 @@
       "categories": [
         "social"
       ],
-      "velocity": 57.0,
-      "timestamp": "2025-11-16T02:34:55.698326"
+      "velocity": 63.0,
+      "timestamp": "2025-11-16T13:37:26.867498"
     },
     {
       "keyword": "plan",
-      "score": 57,
+      "score": 63,
       "source_count": 1,
       "sources": [
         "reddit_wholesomememes"
@@ -1626,11 +1649,11 @@
       "categories": [
         "social"
       ],
-      "velocity": 57.0,
-      "timestamp": "2025-11-16T02:34:55.698329"
+      "velocity": 63.0,
+      "timestamp": "2025-11-16T13:37:26.867500"
     }
   ],
-  "timestamp": "2025-11-16T02:34:56.214887",
+  "timestamp": "2025-11-16T13:37:27.382794",
   "sources": [
     "google_trends",
     "reddit",

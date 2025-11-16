@@ -3,9 +3,17 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pathlib import Path
 import os
+import logging
 
 from routers import generate, trends, brand, auth
 from db.mongo import connect_to_mongo, close_mongo_connection
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
 
 # Get backend directory
 BACKEND_DIR = Path(__file__).parent
@@ -37,12 +45,22 @@ app.mount("/outputs", StaticFiles(directory=str(OUTPUTS_DIR)), name="outputs")
 
 @app.on_event("startup")
 async def startup_event() -> None:
-    await connect_to_mongo()
+    try:
+        logger.info("🚀 Starting AI MemeForge API...")
+        await connect_to_mongo()
+        logger.info("✅ Startup complete!")
+    except Exception as e:
+        logger.error(f"❌ Startup failed: {e}", exc_info=True)
+        raise
 
 
 @app.on_event("shutdown")
 async def shutdown_event() -> None:
-    await close_mongo_connection()
+    try:
+        logger.info("👋 Shutting down gracefully...")
+        await close_mongo_connection()
+    except Exception as e:
+        logger.error(f"Error during shutdown: {e}")
 
 
 # Include routers
@@ -54,10 +72,26 @@ app.include_router(brand.router)
 
 @app.get("/")
 def home():
-    return {"message": "AI MemeForge API is running!", "version": "1.0.0"}
+    return {
+        "message": "AI MemeForge API is running!",
+        "version": "1.0.0",
+        "status": "healthy",
+        "endpoints": {
+            "health": "/health",
+            "docs": "/docs",
+            "generate": "/generate/",
+            "trends": "/trends/",
+            "brand": "/brand/",
+            "auth": "/auth/"
+        }
+    }
 
 
 @app.get("/health")
 def health_check():
-    return {"status": "healthy"}
+    return {
+        "status": "healthy",
+        "service": "AI MemeForge API",
+        "version": "1.0.0"
+    }
 

@@ -66,7 +66,7 @@ export function useMemeGenerator() {
         formData.append("logo", logoFile);
       }
       const res = await axios.post(`${API_BASE}/generate/`, formData, {
-        timeout: 30000, // 30 second timeout for AI generation
+        timeout: 60000, // 60 second timeout for AI generation + cold start
       });
       const image = res.data.image_url ? `${API_BASE}${res.data.image_url}` : null;
       setImageUrl(image);

@@ -80,11 +80,18 @@ export function useMemeGenerator() {
     } catch (err) {
       console.error("Generation failed", err);
       const detail = err.response?.data?.detail;
-      setError(
-        typeof detail === "string"
-          ? detail
-          : detail?.issues?.join(", ") || "Failed to generate meme. Please try again."
-      );
+      let errorMessage = "Failed to generate meme. Please try again.";
+      
+      // Check if it's a timeout error (likely cold start)
+      if (err.code === 'ECONNABORTED' || err.message?.includes('timeout')) {
+        errorMessage = "Request timed out. The server may be starting up (cold start). Please wait 30 seconds and try again.";
+      } else if (typeof detail === "string") {
+        errorMessage = detail;
+      } else if (detail?.issues) {
+        errorMessage = detail.issues.join(", ");
+      }
+      
+      setError(errorMessage);
     } finally {
       setLoading(false);
     }
